@@ -43,9 +43,9 @@ Para executar o código, siga estas etapas:
 
 3. Execute o código Python com o seguinte comando:
 
-´´´
+```bash
 python nome_do_arquivo.py
-´´´
+```
 Substitua **nome_do_arquivo.py** pelo nome do arquivo Python que contém o código.
 
 ### Exemplo
