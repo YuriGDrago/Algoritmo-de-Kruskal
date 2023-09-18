@@ -8,8 +8,7 @@ Este é um exemplo de implementação em Python do algoritmo de Kruskal para enc
 3. Requisitos
 4. Execução
 5. Exemplo
-6. Contribuição
-7.Licença
+
 
 ### Visão Geral
 
